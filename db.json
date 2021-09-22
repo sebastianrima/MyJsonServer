@@ -1,0 +1,73 @@
+{ "poke":[
+        {
+            "name": "Mimikyu",
+            "type": "Fantasma, Hada",
+            "hability": "Disfraz",
+            "gen": "septima",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/778.png"
+        },
+        {
+            "name": "Torchic",
+            "type": "Fuego",
+            "hability": "Mar de llamas",
+            "gen": "tercera",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/255.png"
+        },
+        {
+            "name": "Metapod",
+            "type": "Bicho",
+            "hability": "Mudar",
+            "gen": "primera",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png"
+        },
+        {
+            "name": "Blastoise",
+            "type": "Agua",
+            "hability": "Torrente",
+            "gen": "primera",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png"
+        },
+        {
+            "name": "Gligar",
+            "type": "Tierra, volador",
+            "hability": "Velo arena",
+            "gen": "segunda",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/207.png"
+        },
+        {
+            "name": "Totodile",
+            "type": "Agua",
+            "hability": "Torrente",
+            "gen": "segunda",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/158.png"
+        },
+        {
+            "name": "Ampharos",
+            "type": "Electrico",
+            "hability": "Electricidad Estatica",
+            "gen": "segunda",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/181.png"
+        },
+        {
+            "name": "Torterra",
+            "type": "Planta, tierra",
+            "hability": "Espesura",
+            "gen": "cuarta",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/389.png"
+        },
+        {
+            "name": "Dratini",
+            "type": "Dragon",
+            "hability": "Mudar",
+            "gen": "primera",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png"
+        },
+        {
+            "name": "Raboot",
+            "type": "Fuego",
+            "hability": "Mar llamas",
+            "gen": "octava",
+            "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/814.png"
+        }
+
+]}
